@@ -1,0 +1,29 @@
+Test Report - 10/24/2025 7:06:56 AM
+---------------------------------
+07:06:56 | [PASS] | Test_01_Login_ValidCredentials
+
+--- New Test Run: 10/25/2025 12:18:12 AM ---
+00:18:12 | [PASS] | Test_01_Login_ValidCredentials
+
+--- New Test Run: 10/25/2025 12:35:36 AM ---
+00:35:36 | [PASS] | Test_01_Login_ValidCredentials
+
+--- New Test Run: 10/25/2025 12:55:22 AM ---
+00:55:22 | [PASS] | Test_01_Login_ValidCredentials
+
+--- New Test Run: 10/25/2025 5:34:07 AM ---
+05:34:07 | [PASS] | Login Manually Once and Save Notion Cookies
+05:34:47 | [PASS] | QA_Project.Tests.LoginTests.Test_06_InvalidPassword_ShouldShowError
+05:35:13 | [PASS] | QA_Project.Tests.LoginTests.Test_03_InvalidEmail_ShouldShowError
+05:36:14 | [PASS] | QA_Project.Tests.LoginTests.Test_01_ValidLogin_Chrome_ShouldSucceed
+05:36:38 | [PASS] | QA_Project.Tests.DashboardTests.Test_04_Dashboard_CrossBrowser_Chrome
+05:37:03 | [PASS] | QA_Project.Tests.DashboardTests.Test_05_Dashboard_CrossBrowser_Edge
+05:37:28 | [PASS] | QA_Project.Tests.DashboardTests.Test_01_DashboardLoad_ShouldDisplaySidebar
+05:37:49 | [PASS] | QA_Project.Tests.DashboardTests.Test_02_Dashboard_VerifyPageTitle
+05:38:13 | [PASS] | QA_Project.Tests.DashboardTests.Test_06_Dashboard_PageLoadPerformance
+05:38:35 | [PASS] | QA_Project.Tests.DashboardTests.Test_03_Dashboard_VerifyURL
+05:38:46 | [PASS] | QA_Project.Tests.WorkspaceTests.Test_04_Workspace_CrossBrowser_Edge
+05:38:57 | [PASS] | QA_Project.Tests.WorkspaceTests.Test_01_WorkspacePage_ShouldLoad
+05:39:08 | [PASS] | QA_Project.Tests.WorkspaceTests.Test_03_Workspace_CrossBrowser_Chrome
+05:39:19 | [PASS] | QA_Project.Tests.WorkspaceTests.Test_05_Workspace_PageTitle
+05:39:31 | [PASS] | QA_Project.Tests.WorkspaceTests.Test_02_Workspace_VerifyURL
